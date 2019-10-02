@@ -1,5 +1,5 @@
 {
-  "name": "hgraca/doctrine-test-db-regeneration-bundle",
+  "name": "valeman/doctrine-test-db-regeneration-bundle",
   "license": "MIT",
   "type": "library",
   "description": "Symfony 2/3/4 bundle to generate the test DB (if needed) for every test suite run or test method run.",
